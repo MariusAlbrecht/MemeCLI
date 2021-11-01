@@ -1,3 +1,3 @@
-import argparse as arg
-import editor as ed
+import argparse
+import editor
 
