@@ -5,7 +5,9 @@ uses [Pillow](https://pillow.readthedocs.io/en/stable/index.html) for the image 
 # how it works
 
 the tool is split into two parts:
--the `drawTextOnImage` class and function in the `editor.py` file and ...
+
+- the `drawTextOnImage` class and function in the `editor.py` file and 
+- ...
 
 ## drawTextOnImage
 
