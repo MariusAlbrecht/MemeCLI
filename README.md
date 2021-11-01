@@ -6,8 +6,8 @@ uses [Pillow](https://pillow.readthedocs.io/en/stable/index.html) for the image 
 
 the tool is split into two parts:
 
-- the `drawTextOnImage` class and function in the `editor.py` file and 
-- ...
+- the `drawTextOnImage` class and function in the `editor.py` file, which handle the drawing itself and
+- the `main.py` files which handles profiles and the actual meme creation
 
 ## drawTextOnImage
 
