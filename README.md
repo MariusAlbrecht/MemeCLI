@@ -15,7 +15,7 @@ the `drawTextOnImage` class and function basically just use the Pillow `ImageFon
 
 `fontFolderPath` specifies the Folder, in which the font that is suppsed to be used is located in and is optional.
 
-`fontName` specifies the font name (without file extension)
+`fontName` specifies the font-File name (without file extension, e.g. if the font file is named "foo.ttf" the correct fontName would be "foo")
 
 `fontExtension` specifies the file extension, as multiple different extensions can be used (see [here](https://pillow.readthedocs.io/en/stable/reference/ImageFont.html) for more info on the options)
 
