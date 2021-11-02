@@ -28,3 +28,5 @@ the `drawTextOnImage` class and function basically just use the Pillow `ImageFon
 all paramaters but the `imagePath` are optional and default to C:\Windows\Fonts\arial.ttf at size 15. Separating the parts of the font path can be useful, expecially because the folder probably stays the same, while font name and extension may change more often. This gets rid of redundancy.
 
 ##Profiles
+
+# NOTE THAT THIS DOES NOT AT ALL WORK YET
